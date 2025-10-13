@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailData>
+    <sender>person1</sender>
+    <recipient>person2</recipient>
+    <subject>email subject</subject>
+    <messageBody>message</messageBody>
+</emailData>

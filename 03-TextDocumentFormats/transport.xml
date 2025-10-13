@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MeansOfTransport>
+    <name mode="tramway">
+        <TopSpeed unit="kmh">60</TopSpeed>
+        <MaximumCapacity>50</MaximumCapacity>
+        <TimetogoHome unit="minutes">45</TimetogoHome>
+        <color>blue</color>
+    </name>
+    <name mode="car">
+        <TopSpeed unit="kmh">200</TopSpeed>
+        <MaximumCapacity>7</MaximumCapacity>
+        <TimetogoHome unit="minutes">20</TimetogoHome>
+        <color>black</color>
+    </name>
+    <name mode="bike">
+        <TopSpeed unit="kmh">20</TopSpeed>
+        <MaximumCapacity>1</MaximumCapacity>
+        <TimetogoHome unit="minutes">100</TimetogoHome>
+        <color>black</color>
+    </name>
+
+</MeansOfTransport>
