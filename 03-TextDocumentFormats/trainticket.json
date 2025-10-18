@@ -1,0 +1,13 @@
+{
+    "startingStation": "Warszawa Centralna",
+    "endStation": "Kraków Główny",
+    "timeMinutes": 138,
+    "ticketNO": "WN14225327",
+    "pricePLN": 120,
+    "route": [
+        "Warszawa Wschodnia",
+        "Warszawa Centralna",
+        "Warszawa Zachodnia",
+        "Kraków Główny"
+    ]
+}
