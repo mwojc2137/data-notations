@@ -53,5 +53,16 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Reserved",
+        "founded": 1999,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 50000,
+        "products": [
+            "Fashion Apparel",
+            "Accessories",
+            "Outerwear"
+        ]
     }
 ]

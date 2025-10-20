@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Samsung" model="Galaxy S22+" releaseYear="2022">
+        <specs>
+            <screenSize unit="inch">6.7</screenSize>
+            <batteryCapacity unit="mAh">4000</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">50</camera>
+        </specs>
+        <price currency="USD">699</price>
+    </smartphone>
 </smartphones>
