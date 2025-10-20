@@ -16,7 +16,7 @@ The basic components of laptops function identically to their desktop counterpar
 Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.
 
 1. [Display](https://en.wikipedia.org/wiki/Laptop#Display)
-1. [CPU](https://en.wikipedia.org/wiki/Laptop#Central_processing_unit_(CPU))
+1. [CPU](https://en.wikipedia.org/wiki/Laptop#Central_processing_unit_(CPU)
 1. GPU
 1. Memory
 1. Internal Storage
